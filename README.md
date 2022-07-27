@@ -12,9 +12,9 @@ When you are using this code, please cite the paper
 
 This paper also explains the algorithms in more detail.
 
-# Directory structure
+## Directory structure
 
-# Legal Information & Credits
+## Legal Information & Credits
 
 Copyright (c) 2022 Fatima Antarou Ba and Michael Quellmalz
 
