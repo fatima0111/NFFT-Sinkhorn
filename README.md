@@ -5,6 +5,8 @@ Acceleration of the Sinkhorn algorithm for multi-marginal optimal transport with
 ## Prerequisites
 To run the code the fastsum package has be installed. For more details refer to https://www-user.tu-chemnitz.de/~potts/nfft/ and https://github.com/NFFT/nfft. 
 
+#### Make sure that the fastsum package is in the same parent directory the NFFT-Sinkhorn directories.
+
 ## Overview
 
 ## Reference
