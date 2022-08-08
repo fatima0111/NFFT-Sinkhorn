@@ -1,13 +1,19 @@
 # NFFT-Sinkhorn
 
 Acceleration of the Sinkhorn algorithm for multi-marginal optimal transport with tree and circle structured cost functions. The new algorithm is faster than the usual Sinkhorn algorithm. Numerical examples such as Euler flows and the tree-shaped Barycenter problem illustrate the accuracy of the new algorithm.
+<p align="center">
+<img src="https://github.com/fatima0111/NFFT-Sinkhorn/blob/main/Output_Tree/Barycenter/nfft_sink_barycenter_eta_005_lamda_25_nit_150_Mfftcoef156.png" width="500" height="300">
+</p>
+<p align="center"> 
+    <em>Computing fixed support image barycenter with NFFT-Sinkhorn algorithm where the four corner images are given </em>
+</p>
+
 
 ## Prerequisites
 To run the code the fastsum package has be installed. For more details refer to https://www-user.tu-chemnitz.de/~potts/nfft/ and https://github.com/NFFT/nfft. 
 
-#### Make sure that the fastsum package is in the same parent directory the NFFT-Sinkhorn directories.
+#### Make sure that the fastsum package is in the same parent directory as the NFFT-Sinkhorn directories.
 
-## Overview
 
 ## Reference
 
