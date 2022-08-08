@@ -13,15 +13,25 @@ To run the code the fastsum package has be installed. For more details refer to 
 
 When you are using this code, please cite the paper
 
-..... paper
+<a id="1">[1]</a> Fatima Antarou Ba, Michael Quellmalz. (2022). [Accelerating the Sinkhorn algorithm for sparse multi-marginal optimal transport by fast Fourier transforms](https://arxiv.org/abs/2208.03120). 
 
 This paper also explains the algorithms in more detail.
 
 ## Directory structure
 
+| File/Folder   | Purpose                                                                                   |
+| ------------- |-------------------------------------------------------------------------------------------|   
+| Libs          | Sinkhorn Algorithm from Section 4., and NFFT-Sinkhorn algorithm from Section 5. of [[1]](#1) |
+| images        | Marginal images for Wasserstein barycenters with general tree                                 |
+| Output_Circle | Output of the numerical examples for MOT problem with tree-structured cost function       |
+| Output_Tree   | Output of the numerical examples for MOT problem with tree-structured cost function       |
+| Test_functions| Implementation of numerical examples from Section 6. of [[1]](#1)                           |
+| Utils         | Auxiliary methods for the Sinkhorn algorithm and the numerical examples                 | 
+
+
 ## Legal Information & Credits
 
-Copyright (c) 2022 Fatima Antarou Ba and Michael Quellmalz
+Copyright (c) 2022 [Fatima Antarou Ba](https://www.math.tu-berlin.de/fachgebiete_ag_modnumdiff/angewandte_mathematik/v_menue/team/fatima_antarou_ba/v_menue/homepage/) and [Michael Quellmalz](https://page.math.tu-berlin.de/~quellm/index.php)
 
 This software was written by Fatima Antarou Ba and Michael Quellmalz. It was developed at the Institute of Mathematics, TU Berlin. The first mentioned author acknowledges support by the German Research Foundation within the Bundesministerium für Bildung und Forshung within the Sale project.
 
