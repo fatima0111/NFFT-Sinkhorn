@@ -21,12 +21,12 @@ This paper also explains the algorithms in more detail.
 
 | File/Folder   | Purpose                                                                                   |
 | ------------- |-------------------------------------------------------------------------------------------|   
-| Libs          | Sinkhorn Algorithm from Section 4 and NFFT-Sinkhorn algorithm from Section 5 of [[1]](#1) |
-| images        | Test images for Wasserstein barycenters with general tree                                 |
+| Libs          | Sinkhorn Algorithm from Section 4., and NFFT-Sinkhorn algorithm from Section 5. of [[1]](#1) |
+| images        | Marginal images for Wasserstein barycenters with general tree                                 |
 | Output_Circle | Output of the numerical examples for MOT problem with tree-structured cost function       |
 | Output_Tree   | Output of the numerical examples for MOT problem with tree-structured cost function       |
-| Test_functions| Implementation of numerical examples in Section 6. of [[1]](#1)                           |
-| Utils         |                                                                                           | 
+| Test_functions| Implementation of numerical examples from Section 6. of [[1]](#1)                           |
+| Utils         | Auxiliary methods for the Sinkhorn algorithm and the numerical examples                 | 
 
 
 ## Legal Information & Credits
