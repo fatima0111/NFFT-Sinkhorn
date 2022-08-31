@@ -10,7 +10,7 @@ Acceleration of the Sinkhorn algorithm for multi-marginal optimal transport with
 
 
 ## Prerequisites
-To run the code the fastsum package has be installed. For more details refer to https://www-user.tu-chemnitz.de/~potts/nfft/index.php.
+To run the code, the fastsum Matlab interface from the **NFFT** package is required. For more details and the download of the Matlab interface, we refer to https://www-user.tu-chemnitz.de/~potts/nfft/index.php.
 
 #### Make sure that the fastsum package is in the same parent directory as the NFFT-Sinkhorn directories.
 
@@ -19,7 +19,8 @@ To run the code the fastsum package has be installed. For more details refer to 
 
 When you are using this code, please cite the paper
 
-<a id="1">[1]</a> Fatima Antarou Ba, Michael Quellmalz. (2022). [Accelerating the Sinkhorn algorithm for sparse multi-marginal optimal transport by fast Fourier transforms](https://www.mdpi.com/1999-4893/15/9/311). 
+<a id="1">[1]</a> Fatima Antarou Ba, Michael Quellmalz. **Accelerating the Sinkhorn algorithm for sparse multi-marginal optimal transport via fast Fourier transforms**. 
+_Algorithms_ 2022, 15(9), 311; [doi:10.3390/a15090311](https://doi.org/10.3390/a15090311) (Open Access)
 
 This paper also explains the algorithms in more detail.
 
